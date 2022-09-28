@@ -54,10 +54,6 @@
     <header-file src="src/ios/CameraViewController.h" />
     <source-file src="src/ios/CameraViewController.m" />
     <resource-file src="src/ios/Sounds/beep.caf" />
-    <resource-file src="src/ios/de.lproj/Localizable.strings"
-      target="de.lproj/Localizable.strings" />
-    <resource-file src="src/ios/en.lproj/Localizable.strings"
-      target="en.lproj/Localizable.strings" />
   </platform>
   <platform name="android">
     <dependency id="cordova-plugin-androidx-adapter"
